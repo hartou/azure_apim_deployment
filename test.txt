@@ -1,0 +1,4 @@
+Create random poem
+Sure! Here's an example of how to use an Azure deployment script to create a storage account and upload a file from your local machine to a storage container:
+
+Create a new Bash script that defines the deployment steps you need. In this example, we'll use the Azure CLI to create a new storage account and container, and then use the az storage blob upload command to upload a file to the container:
